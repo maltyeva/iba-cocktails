@@ -1,4 +1,4 @@
-[
+{ 
   "Absinthe": {
     "abv": 40,
     "taste": null
@@ -207,4 +207,4 @@
     "abv": 40,
     "taste": null
   }
-] 
+}
